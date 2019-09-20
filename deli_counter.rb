@@ -29,4 +29,3 @@ def now_serving(deli)
     puts statement
   end
 end
-end
